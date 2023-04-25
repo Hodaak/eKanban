@@ -1,8 +1,15 @@
 Project Name:
-Fog Light Manufacturing System
+eKanban/Fog Light Manufacturing System
 
 Project Description:
 The Fog Light Manufacturing System is a customized software solution developed for a manufacturing company that specializes in fog lights. The system is designed to provide real-time updates and information to every level of the organizational structure utilizing the Kanban approach. In addition, the system comes with features for database configuration and employee management, as well as comprehensive data visualization tools for monitoring updates on parts and the overall manufacturing process.
+
+Disclaimer
+The project available in this repository is an academic project and is not intended to be publicly available since it is related to academic coursework, and there is a potential for academic misconduct if it is used improperly. Therefore, only a video recording of the project is available for viewing.
+
+If you would like to request access to code base and additional materials related to this project, please contact me directly and make your request. Please note that access to any additional materials will be granted solely at my discretion and only for legitimate educational or research purposes.
+
+By accessing the video recording of this project, you acknowledge and agree that you will not use it for any unauthorized or unethical purposes, and that any misuse of the project may result in serious consequences, including academic penalties and disciplinary action.
 
 Technologies Used:
 Microsoft SQL Server
